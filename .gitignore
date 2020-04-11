@@ -2521,3 +2521,4 @@ env/Scripts/pytest.exe
 .idea/inspectionProfiles/profiles_settings.xml
 **/__pycache__/*
 env/*
+.vscode/.ropeproject/objectdb
